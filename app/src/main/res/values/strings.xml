@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App3</string>
+    <string name="ok_button">Ok</string>
+    <string name="calcle_button">Cancle</string>
+</resources>
